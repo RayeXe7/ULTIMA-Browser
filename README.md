@@ -8,5 +8,15 @@ It will start off like a normal website with a free domain but if it gets blocke
 If Google Sites is blocked, tell me in "Issues", I will find a way. Maybe like bookmarklets or inspect menus.
 
 Support list:
+
 Chromebook (APK/HTML)
+
 Windows Laptop (EXE/HTML)
+
+I will make a new repo that will have a link to this one.
+
+I haven't started the project but I will start in a few days or around the start of school. (August - December)
+
+The project will probably take a few days or weeks.
+
+Around the middle of the school year, I will start implementing disguises such as fake information websites and more.
