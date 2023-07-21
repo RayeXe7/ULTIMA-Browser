@@ -5,4 +5,4 @@ It won't nessesarily unblock everything but it will emulate Google Chrome, so pr
 
 It will start off like a normal website with a free domain but if it gets blocked, use your personal device to copy the file and add it to a Google Site.
 
-If Google Sites is blocked, tell me in "Issues", I will find a way.
+If Google Sites is blocked, tell me in "Issues", I will find a way. Maybe like bookmarklets or inspect menus.
