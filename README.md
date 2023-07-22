@@ -20,3 +20,5 @@ I haven't started the project but I will start in a few days or around the start
 The project will probably take a few days or weeks.
 
 Around the middle of the school year, I will start implementing disguises such as fake information websites and more.
+
+Now I have time to create prototypes in Replit and GitHub Workspace but the actual version will be in Visual Studio Code.
